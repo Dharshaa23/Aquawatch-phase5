@@ -1,4 +1,4 @@
-# Aquawatch-phase5
+# Aquawatch
 
 This repository holds the prototype for AquaWatch, a smart aquaculture monitoring system based on AI and IoT.
 Features
